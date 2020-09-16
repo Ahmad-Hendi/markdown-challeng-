@@ -4,7 +4,8 @@
 
 _“You only live once, but if you do it right, once is enough.”_
 
-![pic](/images/test.png)
+![test](https://user-images.githubusercontent.com/71318364/93339589-0e46ec80-f82c-11ea-891e-af19b6f7baec.png)
+
 
 
 ## My name is Ahmad i am a big fan of programing 
@@ -15,4 +16,4 @@ _“You only live once, but if you do it right, once is enough.”_
 | Birthday | 01/07/1993 |
 | Favorite color | Red |
 | Favorite food | Mkdos |
-| Pinneapple on pizza | yes
+| Pinneapple on pizza | NO
