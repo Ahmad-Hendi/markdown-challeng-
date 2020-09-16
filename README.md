@@ -8,10 +8,11 @@ _“You only live once, but if you do it right, once is enough.”_
 
 
 
-## i am a big fan of programing 💻
+
 
 
 ##### Me, in one sentence
+###### i am a big fan of programing 💻
 
 |   |    |
 |:--------------- |:-------------------|
