@@ -1,6 +1,6 @@
 # markdown-challeng-
 
-# Ahmad Hendi 
+# A h m a d-H e n d i  
 
 _“You only live once, but if you do it right, once is enough.”_
 
@@ -8,7 +8,7 @@ _“You only live once, but if you do it right, once is enough.”_
 
 
 
-## My name is Ahmad i am a big fan of programing 💻
+## i am a big fan of programing 💻
 
 
 ##### Me, in one sentence
@@ -23,10 +23,15 @@ _“You only live once, but if you do it right, once is enough.”_
 
 ###### Hobbies :
 
-- GYM 🏋🏻‍♂️
-- Reading 📖
-- photography  📸 check out my work [https://www.instagram.com/ahmad_hendi_/] 
+* GYM 🏋🏻‍♂️
+* Reading 📖
+* photography  
+  * 📸 check out my work [https://www.instagram.com/ahmad_hendi_/] 
+
+##### You can always count on me when
 
 
 ### Now that’s what I call stupid 🙊: 
 In my junior year of high school, this guy asked me on a date. He rented a Redbox movie and made a pizza. We were watching the movie and the oven beeped so the pizza was done. He looked me dead in the eye and said, “This is the worst part.” I then watched this boy open the oven and pull the pizza out with his bare hands, rack and all, screaming at the top of his lungs. We never had a second date.
+
+Next https://github.com/raileanualexandru/markdown-challenge/edit/master/README.md
