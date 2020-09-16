@@ -8,12 +8,21 @@ _“You only live once, but if you do it right, once is enough.”_
 
 
 
-## My name is Ahmad i am a big fan of programing 
+## My name is Ahmad i am a big fan of programing 💻
 
 
-| table test | test one |
-|:---------- |:---------|
+##### Me, in one sentence
+
+|   |    |
+|:--------------- |:-------------------|
 | Birthday | 01/07/1993 |
 | Favorite color | Red |
 | Favorite food | Mkdos |
 | Pinneapple on pizza | NO
+
+
+###### Hobbies :
+
+- GYM 🏋🏻‍♂️
+- Reading 📖
+- photography  📸 check out my work [https://www.instagram.com/ahmad_hendi_/] 
